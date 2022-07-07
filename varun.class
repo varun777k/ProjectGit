@@ -2,5 +2,6 @@ class varun
 {
    public statis void main(string[] args){
    system.out.println("this is the first prog");
+   system.out.println("this is the second line added");
 }
 }
